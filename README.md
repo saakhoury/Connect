@@ -692,6 +692,6 @@ export const checkIsLiked = (likeList: string[], userId: string) => {
   return likeList.includes(userId);
 };
 ```
-<h3 align="center"> Check out the real project at : https://connect-beryl.vercel.app/sign-in </h3>
+<h3 align="center"> Check out the deployed project at : https://connect-beryl.vercel.app/sign-in </h3>
 
 
