@@ -1,7 +1,7 @@
 <h1 align="center"> Connect </h1>
 <h2 align = "center"> A Full-Stack Social Media App </h2>
 <h5 align = "center"> Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more. </h5>
-<h5> Connect | React, Appwrite, Tanstack Query, Shadcn, Tailwind CSS, Typescript, Vite, NextJs 
+<h5> 
 
 • Shaped a full stack social media platform with authentication, explore features and a user-friendly UI for 300+ users
 
