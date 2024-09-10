@@ -1,6 +1,16 @@
 <h1 align="center"> Connect </h1>
 <h2 align = "center"> A Full-Stack Social Media App </h2>
 <h5 align = "center"> Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more. </h5>
+<h5> Connect | React, Appwrite, Tanstack Query, Shadcn, Tailwind CSS, Typescript, Vite, NextJs 
+
+• Shaped a full stack social media platform with authentication, explore features and a user-friendly UI for 300+ users
+
+• Utilized React Query to optimize data retrieval, auto-cache& execute parallel queries, boosting app performance
+
+• Utilized Appwrite as a Backend as a Service (BaaS) to streamline CRUD-related development processes
+
+• Ensured page reliability and quality with efficient file management and seamless storage system through QA testing
+</h5>
 
 
 <details>
